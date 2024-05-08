@@ -1,11 +1,10 @@
-# TigerInTheWall
-![TigerInTheWall Icon](https://raw.githubusercontent.com/TigerBeanst/TigerInTheWall/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+# ShareClean
 
-A 🐯Tiger hides in the wall, waiting to 💀bite the "Intent" passby. 
+Block annoying superfluous Intent for your Android devices. 
 
-🚫Block annoying superfluous Intent for your Android devices. 
+Magisk required.
 
-👺Magisk needed, named as RnIntentClean before.
+Forked from RnIntentClean/TigerInWall.
 
 [![Platform](https://img.shields.io/badge/platform-android-orange.svg)](https://github.com/TigerBeanst/TigerInTheWall)
 [![Version](https://img.shields.io/github/v/release/TigerBeanst/TigerInTheWall)](https://github.com/TigerBeanst/TigerInTheWall/releases)
